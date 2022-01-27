@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Shweta R. Anand",
+    "occupation": "Sophomore",
+    "description": "I'm currently expertising in Deep Learning, DSA and Geoinformatics.",
+    "image": "profilepic.jpg",
+    "bio": "I'm a life-long learner and love to participate in team activities. I'm always up for a good book recommendation :)",
+    "contactmessage": "Have a question? Mail to me and I'll do my best to get back as soon as possible :)",
+    "email": "anand26shweta@gmail.com",
+    "phone": "9315682110",
+    "address": {
+      "street": "Dwarka",
+      "city": "NSUT",
+      "state": "New Delhi",
+      "zip": "110078"
+    },
+    "website": "https://shweta200126.github.io/",
+    "resumedownload": "https://shweta200126.github.io/",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/shweta200126",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shweta-ranjan-anand-a3246b203/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/shweta_xix",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/shweta200126",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "NSUT",
+        "degree": "B. Tech in Geoinformatics",
+        "graduated": "May 2024",
+        "description": "Learning DSA, Deep Learning, GIS and participating in societies."
+      },
+      {
+        "school": "DPSG, PV",
+        "degree": "Intermediate",
+        "graduated": "March 2019",
+        "description": "Got to know I like to make websites and write code!"
+      }
+    ],
+    "work": [
+      {
+        "company": "Zuri Team",
+        "title": "UI/UX trainee",
+        "years": "March 2021 - JUly 2021",
+        "description": "Learnt UI/UX with Figma and made one solo and one team project."
+      },
+      {
+        "company": "CodeChef NSUT Chapter",
+        "title": "Junior Execomm",
+        "years": "March 2021 - Present",
+        "description": "Coordinated fresher's orientation and am graphics and media team part."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Canva/ Pixlr",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Figma",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Petlite",
+        "category": "First Team Hackathon winner project",
+        "image": "petlite.png",
+        "url": "https://devpost.com/software/petlite"
+      },
+      {
+        "title": "Swapped",
+        "category": "A team made UI/UX project",
+        "image": "swapped.png",
+        "url": "https://www.figma.com/file/s5JlnymJOO9N6rjVR2nItZ/Trade-By-Barter-Mobile-App-team-library?node-id=427%3A0"
+      },
+      {
+        "title": "NSUT campuses",
+        "category": "A GIS project",
+        "image": "map.jpeg",
+        "url": "https://shweta200126.github.io/Pages/campuses.html"
+      }
+    ]
+  }
+}
