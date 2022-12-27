@@ -41,4 +41,4 @@ I learnt the basics of React: what JSX is, how to create components, import and 
 Website - [Shweta](https://github.com/Shweta200126)
 
 ## Acknowledgements
-I used [Hanna's](https://github.com/its-haanna) menthod of documenting her learnings.
+I used [Hanna's](https://github.com/its-haanna) method of documenting her learnings.
