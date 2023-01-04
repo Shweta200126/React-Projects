@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Business Card [5 January 2023]
+This project is a part of Scrimba's React Basic Course.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Contents
 
-## Available Scripts
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Process](#process)
+  - [Tech Stack](#tech-stack)
+  - [What I learnt](#what-i-learnt)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
-In the project directory, you can run:
+## Overview
+This was my second solo React project after starting to learn React. The goal was to create an airbnb clone. Through this project I was introduced to prop and map.
 
-### `npm start`
+## Screenshot
+![screenshot]()
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Links
+Live Site URL: [Airbnb Clone](https://business-card-react-scribma.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Process
+I have used React 18 for this project. Started with Create React App and then rendered all the HTML with ReactDOM.render() and styled it with CSS. I also used props and created a reusable Card component that imports data from a file and maps it into every card, creating a different cards with minimal work.
 
-### `npm run build`
+## Tech Stack
+- HTML5
+- CSS
+- React
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## What I learned
+I learned about props and creating reusable components.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Useful resources
+- [Scrimba](https://scrimba.com/playlist/pKNqYAZ)
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Author
+Website - [Shweta](https://github.com/Shweta200126)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgements
+I used [Hanna's](https://github.com/its-haanna) method of documenting her learnings.
