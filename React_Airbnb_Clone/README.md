@@ -8,7 +8,7 @@ This project is a part of Scrimba's React Basic Course.
   - [Links](#links)
 - [Process](#process)
   - [Tech Stack](#tech-stack)
-  - [What I learnt](#what-i-learnt)
+  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgements](#acknowledgements)
