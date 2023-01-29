@@ -66,13 +66,11 @@ section {
     flex-direction: row;
     width: 1000px;
     gap: 150px;
-    /* overflow-x: auto; */
-    overflow-x: scroll; /* Hides horizontal scrollbar */
+    overflow-x: scroll;
     -ms-overflow-style: none;
     scrollbar-width: none;
     margin: 0 auto;
     height: auto;
-    /* background: purple; */
   }
 
 .card {
