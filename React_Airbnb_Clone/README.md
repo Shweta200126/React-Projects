@@ -17,8 +17,7 @@ This project is a part of Scrimba's React Basic Course.
 This was my second solo React project after starting to learn React. The goal was to create an airbnb clone. Through this project I was introduced to prop and map.
 
 ## Screenshot
-![screenshot]()
-
+![screenshot](https://user-images.githubusercontent.com/72426535/215338590-bf5f6fac-f74e-487e-bdae-597e9c4c315b.gif)
 
 
 ## Links
