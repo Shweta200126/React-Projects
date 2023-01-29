@@ -1,4 +1,4 @@
-# Business Card [5 January 2023]
+# AirBnb Clone [5 January 2023]
 This project is a part of Scrimba's React Basic Course.
 
 # Contents
@@ -22,7 +22,7 @@ This was my second solo React project after starting to learn React. The goal wa
 
 
 ## Links
-Live Site URL: [Airbnb Clone](https://business-card-react-scribma.netlify.app/)
+Live Site URL: [Airbnb Clone](https://clone-airbnb-react.netlify.app/)
 
 ## Process
 I have used React 18 for this project. Started with Create React App and then rendered all the HTML with ReactDOM.render() and styled it with CSS. I also used props and created a reusable Card component that imports data from a file and maps it into every card, creating a different cards with minimal work.
