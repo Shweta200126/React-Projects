@@ -66,13 +66,11 @@ section {
     flex-direction: row;
     width: 1000px;
     gap: 150px;
-    /* overflow-x: auto; */
-    overflow-x: scroll; /* Hides horizontal scrollbar */
+    overflow-x: scroll;
     -ms-overflow-style: none;
     scrollbar-width: none;
     margin: 0 auto;
     height: auto;
-    /* background: purple; */
   }
 
 .card {
@@ -83,7 +81,6 @@ section {
     flex: 0 0 auto;
     flex-direction: column;  
     border-radius: 9px;    
-    /* background: plum; */
     box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
 }
 
